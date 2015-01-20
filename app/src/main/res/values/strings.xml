@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="application_name">dkjt</string>
+    <string name="application_named">带壳截图 by 少数派</string>
+    <string name="app_name">带壳截图</string>
+    <string name="launcher_name">带壳截图</string>
+    <!-- Main Activity !-->
+    <string name="shadow_preference">白色背景</string>
+    <string name="match_device">自动识别设备</string>
+    <string name="glare_preference">屏幕眩光</string>
+    <string name="no_matching_device">没有合适的设备资源</string>
+    <!-- Device Fragment !-->
+    <string name="saved_as_default_message">%s 已保存为默认设备</string>
+    <string name="glare_enabled">增加屏幕眩光效果</string>
+    <string name="glare_disabled">取消屏幕眩光效果</string>
+    <string name="shadow_enabled">增加白色背景</string>
+    <string name="shadow_disabled">取消白色背景</string>
+    <string name="no_apps_available">缩略图不存在</string>
+    <!-- Notifications !-->
+    <string name="screenshot_saving_ticker">@string/screenshot_saving_title</string>
+    <string name="screenshot_saving_title">保存中....</string>
+    <string name="screenshot_saved_title">保存成功</string>
+    <string name="single_screenshot_saved">%s 保存成功</string>
+    <string name="multiple_screenshots_saved">Saved %1$d images for %2$s.</string>
+    <string name="processing_image">Processing image %1$d of %2$d.</string>
+    <string name="share">分享</string>
+    <string name="rate">Rate</string>
+    <!-- Notification Error Messages !-->
+    <string name="failed_open_screenshot_title">截屏图片已损坏</string>
+    <string name="failed_open_screenshot_text">%s 打开失败</string>
+    <string name="failed_match_dimensions_title">合成失败，图片资源不匹配。</string>
+    <string name="failed_match_dimensions_text">请选择相符的设备。</string>
+    <string name="no_image_received">找不到图片</string>
+
+    <string name="unknown_error_title">出错啦！</string>
+    <string name="unknown_error_text">不好意思，我们也不知道为啥出错。</string>
+    <string name="select_picture">选择图片</string>
+    <string name="storage_unavailable">存储空间不足</string>
+    <string name="description_device_thumbnail">设备缩略图</string>
+    <string name="device_chosen">选择 %s</string>
+    <string name="acknowledge">\@f2prateek（DFG的原作者） @侧脸君（设计师） @MakoShan（开发者）</string>
+    <string name="dfg_author"><a href="https://twitter.com/f2prateek">\@f2prateek</a></string>
+
+    <string name="dkjt_design">
+        <a href="http://weibo.com/amyths">\@侧脸君</a>
+    </string>
+    <string name="dkjt_dev">
+        <a href="http://weibo.com/1606834872">\@Makoshan</a>
+    </string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nothing"></string>
+    <string name="shadow_preference">阴影</string>
+    <string name="match_device">自动识别设备</string>
+    <string name="glare_preference">光影</string>
+</resources>

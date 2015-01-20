@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 21
+        versionCode 1
+        versionName 'dev'
+    }
+    buildTypes {
+        release {
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.0.0'
+
+}

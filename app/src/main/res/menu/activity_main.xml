@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/menu_sspai"
+          android:icon="@drawable/ic_actionbar_logo"
+          android:title="少数派"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_checkbox_glare"
+          android:title="@string/glare_preference"
+          app:showAsAction="never"
+
+          android:checkable="true"/>
+
+    <item android:id="@+id/menu_checkbox_shadow"
+          android:title="@string/shadow_preference"
+          app:showAsAction="never"
+          android:checkable="true"/>
+
+
+    <item android:id="@+id/menu_about"
+          android:icon="@drawable/ic_action_info"
+          android:title="关于我们"
+          app:showAsAction="never"/>
+
+</menu>
